@@ -1,7 +1,7 @@
 var vows = require('vows');
 var assert = require('assert');
 var util = require('util');
-var openid = require('openid');
+var openid = require('ignum-openid');
 var OpenIDStrategy = require('passport-openid/strategy');
 var BadRequestError = require('passport-openid/errors/badrequesterror');
 
