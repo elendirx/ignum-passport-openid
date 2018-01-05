@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-openid.git"
+    "url": "git://github.com/elendirx/ignum-passport-openid.git"
   },
   "bugs": {
     "url": "http://github.com/jaredhanson/passport-openid/issues"
