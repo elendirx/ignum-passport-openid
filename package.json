@@ -30,8 +30,9 @@
   ],
   "main": "./lib/passport-openid",
   "dependencies": {
+    "ignum-openid": "2.x.x",
     "passport-strategy": "1.x.x",
-    "ignum-openid": "2.x.x"
+    "qs": "^6.5.1"
   },
   "devDependencies": {
     "vows": "^0.8.1"
