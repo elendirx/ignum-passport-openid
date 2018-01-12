@@ -1,6 +1,6 @@
 {
   "name": "ignum-passport-openid",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "description": "OpenID authentication strategy for Passport.",
   "keywords": [
     "passport",
